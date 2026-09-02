@@ -13,7 +13,12 @@ Sumerian writes the world as signs and numbers. Speech here follows that:
 - Fast speech drops the consonants. Others hear only vowels. Slow down and the bone returns.
 - Typed thought is a different world than spoken thought.
 
-Moon: Sumerian moon is **Nanna / Suen** (later Akkadian **Sin**). The moon *goddess* beside him is **Ningal** (“Great Queen”). Selene is the Greek name for the same sky-object. See `nanna-ningal.md`.
+Moon: Sumerian moon is **Nanna / Suen** (later Akkadian **Sin**). The moon *goddess* beside him is **Ningal** (“Great Queen”). Poetry-fork: *the girl of nine*. Selene is the Greek name for the same sky-object.
+
+Swedish tick: **tidvatten** = time + water = tide. The moon pulls that word.
+Number tick: Nanna **30** × 2 = **60**. Base sixty. Clocks and degrees.
+
+See `nanna-ningal.md` and `sexagesimal-fork.md`.
 
 ## Grammar ticks
 
@@ -24,8 +29,10 @@ Moon: Sumerian moon is **Nanna / Suen** (later Akkadian **Sin**). The moon *godd
 - Reduplication
 - Logogram vs phonogram (content-sign vs sound-sign)
 - Determinatives mark class, not sound
-- Moon-name as number: Nanna/Suen written **30** (days of the month)
+- Moon-name as number: Nanna/Suen written **30**
+- 30 × 2 = 60 (sexagesimal). 12 × 30 = 360
 - Vowels-as-number tick: replace spoken vowels with Hz / count, keep consonants
+- SV: tid / vatten / tidvatten / måne / nio / trettio / sextio
 
 ## Cuneiforms
 
@@ -37,7 +44,8 @@ Moon: Sumerian moon is **Nanna / Suen** (later Akkadian **Sin**). The moon *godd
 ## Files
 
 - `two-worlds.md` — the realization (mumble, ritual, Torah, frequencies)
-- `nanna-ningal.md` — Sumerian moon pair
+- `nanna-ningal.md` — Sumerian moon pair + girl-of-nine fork
+- `sexagesimal-fork.md` — 30×2, tidvatten, Elon / sexagesimal-origins
 - `MERGES.md` — where this merge came from
 
 Unnecessary language project.
