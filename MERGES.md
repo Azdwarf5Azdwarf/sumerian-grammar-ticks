@@ -10,9 +10,16 @@ https://github.com/Azdwarf5Azdwarf/two-worlds
 
 **Why here:** two-worlds said “do like the Sumerians — replace vowels with numbers / frequencies.” This repo already held Sumerian grammar ticks. Same bone.
 
-**Also considered, not merged:**
-- `numbers-to-geometry`
-- `kimi-method`
-- `sexagesimal-origins` (sibling idea: 60 / 360 / Nanna as 30)
-
 **What moved:** README realization + Torah/abjad + no-receipt ritual + Selene day-moon note. Sumerian moon pair added here, not in the source repo.
+
+## 2026-09-02 — sexagesimal-origins → here (fork, not delete)
+
+**From:** `Azdwarf5Azdwarf/sexagesimal-origins`
+
+https://github.com/Azdwarf5Azdwarf/sexagesimal-origins
+
+Seeded from the Grok share Elon posted 2026-08-30 (*60 seconds and 360 degrees is thousands of years BC old*). Earlier Elon line, 2024: *Oh those cheeky Sumerians with their base 60 number system!*
+
+**Why here:** Nanna = 30. 30 × 2 = 60. Same number-house as the moon name.
+
+Source repo stays. This branch only takes the tick.
