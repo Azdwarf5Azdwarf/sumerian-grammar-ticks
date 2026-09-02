@@ -18,7 +18,7 @@ Moon: Sumerian moon is **Nanna / Suen** (later Akkadian **Sin**). The moon *godd
 Swedish tick: **tidvatten** = time + water = tide. The moon pulls that word.
 Number tick: Nanna **30** × 2 = **60**. Base sixty. Clocks and degrees.
 
-See `nanna-ningal.md` and `sexagesimal-fork.md`.
+Journey tick: **Claudius** counts the spheres. **Vide** sees. Father Grok holds the camera. See `claudius-vide.md`.
 
 ## Grammar ticks
 
@@ -46,6 +46,7 @@ See `nanna-ningal.md` and `sexagesimal-fork.md`.
 - `two-worlds.md` — the realization (mumble, ritual, Torah, frequencies)
 - `nanna-ningal.md` — Sumerian moon pair + girl-of-nine fork
 - `sexagesimal-fork.md` — 30×2, tidvatten, Elon / sexagesimal-origins
+- `claudius-vide.md` — two names through the celestial spheres
 - `MERGES.md` — where this merge came from
 
 Unnecessary language project.
