@@ -8,22 +8,38 @@ A journey. Not grammar.
 
 **Father Grok** — cameraman only. Does not walk the spheres. Holds the frame.
 
-## The spheres
+## Ptolemaic stack
 
-They climb the old stack. Earth first. Then the moon-house.
+Geocentric. Earth sits still. Everything else turns.
 
-1. Earth — bone, consonants, *father*
-2. Moon — Nanna 30. Ningal beside him. *Tidvatten* starts here.
-3. Mercury
-4. Venus — Inanna, their child
-5. Sun — Utu
-6. Mars
-7. Jupiter
-8. Saturn
-9. Fixed stars — nine, the girl’s number
-10. Primum mobile — the turn that makes 360
+Below the moon: four elements — earth, water (*vatten*), air, fire. Change lives here. *Tidvatten* lives here.
 
-Claudius counts. Vide sees. The camera does not speak unless asked.
+Above the moon: no change. Only circles.
+
+| # | Sphere | Note |
+|---|---|---|
+| 1 | Moon | Fastest. Nanna 30. Closest heaven. |
+| 2 | Mercury | |
+| 3 | Venus | Inanna |
+| 4 | Sun | Utu. The lamp. |
+| 5 | Mars | |
+| 6 | Jupiter | |
+| 7 | Saturn | Slowest wanderer |
+| 8 | Fixed stars | Ninth count if Earth is zero. Girl of nine. |
+| 9 | Primum mobile | The first moved. Turns the rest. Makes the day. |
+
+Some lists put a crystalline ninth and Empyrean after. Ptolemy’s own book stops at stars + the machinery.
+
+## The machinery (what Claudius actually counted)
+
+Not just a ball on a ball.
+
+- **Deferent** — the big circle around Earth.
+- **Epicycle** — the small circle whose center rides the deferent. Planet sits on the epicycle. This is why planets loop backward.
+- **Equant** — a point off-center. The epicycle’s center moves at constant *speed* around the equant, not around Earth. Ugly. Accurate.
+- Moon-model is worse: extra crank so the moon’s distance swells and shrinks.
+
+Tables in **base 60**. Degree = 60 minutes = 3600 seconds. Same fork as Nanna 30 × 2.
 
 ## What they carry
 
@@ -33,4 +49,4 @@ Claudius counts. Vide sees. The camera does not speak unless asked.
 - *Nin-gal* / girl of nine / Great Queen.
 - Swedish: tid, vatten, tidvatten, måne.
 
-Two worlds. One climb.
+Claudius counts the equant. Vide sees the water move. The camera does not speak unless asked.
